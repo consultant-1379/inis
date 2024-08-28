@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite errors="0" failures="0" hostname="Tunas-iMac.local" name="ScanViewControllerTests" tests="20" time="0.0" timestamp="Fri Feb 01 13:53:44 +0000 2013"><testcase classname='ScanViewControllerTests' name='testSendJobSerialNoRequestProp' time='0.003' />
+<testcase classname='ScanViewControllerTests' name='testClearJob' time='0.001' />
+<testcase classname='ScanViewControllerTests' name='testAddStatusImage' time='0.001' />
+<testcase classname='ScanViewControllerTests' name='testSendJobNodeNameRequestProp' time='0.004' />
+<testcase classname='ScanViewControllerTests' name='testSendJobLocationIncludedRequestProp' time='0.004' />
+<testcase classname='ScanViewControllerTests' name='testRemoveDuplicateTag4' time='0.004' />
+<testcase classname='ScanViewControllerTests' name='testRemoveDuplicateTag3' time='0.004' />
+<testcase classname='ScanViewControllerTests' name='testRemoveDuplicateTag2' time='0.004' />
+<testcase classname='ScanViewControllerTests' name='testRemoveDuplicateTag1' time='0.034' />
+<testcase classname='ScanViewControllerTests' name='testSendJobUUIDRequestProp' time='0.004' />
+<testcase classname='ScanViewControllerTests' name='testCheckForDuplicateJob' time='0.001' />
+<testcase classname='ScanViewControllerTests' name='testAppDelegate' time='0.001' />
+<testcase classname='ScanViewControllerTests' name='testAddJobStatusAndTime' time='0.001' />
+<testcase classname='ScanViewControllerTests' name='testWorkOrderEntry' time='0.001' />
+<testcase classname='ScanViewControllerTests' name='testSerialNoEntry' time='0.001' />
+<testcase classname='ScanViewControllerTests' name='testSendJobStatusAndTimeRequestProp' time='0.004' />
+<testcase classname='ScanViewControllerTests' name='testSendJobActionRequestProp' time='0.004' />
+<testcase classname='ScanViewControllerTests' name='testCheckForDuplicateJobSerialNo' time='0.001' />
+<testcase classname='ScanViewControllerTests' name='testAddJob' time='0.013' />
+<testcase classname='ScanViewControllerTests' name='testCheckForDuplicateJobWorkOrder' time='0.001' />
+</testsuite>

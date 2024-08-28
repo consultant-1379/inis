@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite errors="0" failures="0" hostname="Tunas-iMac.local" name="AppDelegateTests" tests="10" time="0.0" timestamp="Fri Feb 01 13:53:44 +0000 2013"><testcase classname='AppDelegateTests' name='testAddEndpointConfigViewNotNil' time='0.036' />
+<testcase classname='AppDelegateTests' name='testENISCertificateExpired' time='0.003' />
+<testcase classname='AppDelegateTests' name='testAddSplashViewIsRoot' time='0.001' />
+<testcase classname='AppDelegateTests' name='testENISCertificateNOTExpired' time='0.003' />
+<testcase classname='AppDelegateTests' name='testStatusWaitingCountMultiple' time='0.0' />
+<testcase classname='AppDelegateTests' name='testAppDelegate' time='0.0' />
+<testcase classname='AppDelegateTests' name='testStatusWaitingCountZero' time='0.0' />
+<testcase classname='AppDelegateTests' name='testStatusWaitingCountOne' time='0.0' />
+<testcase classname='AppDelegateTests' name='testFormatExpiryDate' time='0.001' />
+<testcase classname='AppDelegateTests' name='testAddSplashViewNotNil' time='0.0' />
+</testsuite>

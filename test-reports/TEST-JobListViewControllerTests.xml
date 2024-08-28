@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite errors="0" failures="0" hostname="Tunas-iMac.local" name="JobListViewControllerTests" tests="10" time="0.0" timestamp="Fri Feb 01 13:53:44 +0000 2013"><testcase classname='JobListViewControllerTests' name='testSendCancelJobRequestNodeNameRequestProp' time='0.002' />
+<testcase classname='JobListViewControllerTests' name='testAddCancelExpectedJob' time='0.004' />
+<testcase classname='JobListViewControllerTests' name='testSendCancelJobRequestUUIDRequestProp' time='0.002' />
+<testcase classname='JobListViewControllerTests' name='testDeleteJob' time='0.002' />
+<testcase classname='JobListViewControllerTests' name='testCancelJobRequestStatusAndTimeRequestProp' time='0.002' />
+<testcase classname='JobListViewControllerTests' name='testCancelJobEmailQueue' time='0.003' />
+<testcase classname='JobListViewControllerTests' name='testCancelJobAlreadySent' time='0.021' />
+<testcase classname='JobListViewControllerTests' name='testSendCancelJobRequestActionRequestProp' time='0.002' />
+<testcase classname='JobListViewControllerTests' name='testSendCancelJobRequestSerialNoRequestProp' time='0.002' />
+<testcase classname='JobListViewControllerTests' name='testCancelJobNotYetSent' time='0.003' />
+</testsuite>

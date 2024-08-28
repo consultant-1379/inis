@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite errors="0" failures="0" hostname="Tunas-iMac.local" name="EmailBodyCreatorTests" tests="28" time="0.0" timestamp="Fri Feb 01 13:53:44 +0000 2013"><testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropLongitudeActionBindLocationIncludedTrue' time='0.003' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropLongitudeActionBindLocationIncludedFalse' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropLocationIncludedFalse' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropLatitudeActionBindLocationIncludedTrue' time='0.004' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropUUID' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropSerialActionBind' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropFixageActionCancel' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropAltitudeActionBindLocationIncludedFalse' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropAccuracyActionBindLocationIncludedFalse' time='0.003' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropCRSActionBindLocationIncludedTrue' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropAccuracyActionCancel' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropSerialActionCancel' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropNodeNameActionBind' time='0.003' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropLongitudeActionCancel' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropLocationIncludedTrue' time='0.003' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropFixageActionBindLocationIncludedTrue' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropFixageActionBindLocationIncludedFalse' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropLatitudeActionCancel' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropLatitudeActionBindLocationIncludedFalse' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestDate' time='0.128' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropCRSActionBindLocationIncludedFalse' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropAltitudeActionBindLocationIncludedTrue' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropAccuracyActionBindLocationIncludedTrue' time='0.003' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropNodeNameActionCancel' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropCRSActionCancel' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropAltitudeActionCancel' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropActionCancel' time='0.002' />
+<testcase classname='EmailBodyCreatorTests' name='testCreateRequestPropActionBind' time='0.002' />
+</testsuite>
